@@ -47,7 +47,7 @@ Visit my portfolio: [[https://Alemu-Eyayu.github.io/Alemu-Eyayu-portfolio-/](htt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/alm153794/Alemu-Eyayu-portfolio-.git
+   git clone [https://github.com/alm153794/Alemu-Eyayu-portfolio-.git](https://github.com/Alemu-Eyayu/Alemu-Eyayu-portfolio-)
    ```
 
 2. Open `index.html` in your browser or serve it using a local server:
@@ -69,7 +69,7 @@ Visit my portfolio: [[https://Alemu-Eyayu.github.io/Alemu-Eyayu-portfolio-/](htt
 
 ## 🤝 Connect With Me
 
-- **GitHub**: [alm153794](https://github.com/alm153794)
+- **GitHub**: [[alm153794](https://github.com/alm153794)](https://github.com/Alemu-Eyayu/Alemu-Eyayu-portfolio-)
 - **Email**: alemueyayu21@gmail.com
 
 ## 📄 License
