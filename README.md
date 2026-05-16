@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my software development projec
 
 ## 🚀 Live Demo
 
-Visit my portfolio: [https://alm153794.github.io/Alemu-Eyayu-portfolio-/](https://alm153794.github.io/Alemu-Eyayu-portfolio-/)
+Visit my portfolio: [https://Alemu-Eyayu.github.io/Alemu-Eyayu-portfolio-/](https://alm153794.github.io/Alemu-Eyayu-portfolio-/)
 
 ## 🛠 Technologies Used
 
